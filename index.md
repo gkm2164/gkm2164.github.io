@@ -147,4 +147,3 @@
 
 ## Language
 English(fluent), Korean(native)
-
