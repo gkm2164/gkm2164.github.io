@@ -20,9 +20,11 @@ Sep. 2016 - Mar. 2017
 * **Associative Research Engineer**, 
   * 2016 - Current, _Project_, ADD
      * Applied Functional Programming approach for large size of data processing.
+     * C# 6.0, .Net Framework 4.5, WPF, MS-SQL 2012
   * 2017 - Current
      * SMUDI 3D Virtual Globe Development Project, Satrec Initiative Defense Division.
-      * Constructing tiling server using Scala/Akka/Play Framework/Spark/GeoTrellis
+     * Constructing tiling server using Scala/Akka/Play Framework/Spark/GeoTrellis
+     * Scala, Akka Framework, Spark, Hadoop, Redis
 
 ### [Elice](https://elice.io), Daejeon, Republic of Korea
 2016.08 - 2016.09
