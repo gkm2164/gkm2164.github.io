@@ -8,7 +8,7 @@
 ## Work Experience
 
 ### [Kakao](https://www.kakaocorp.com), Republic of Korea
-#### Search Service Development Department
+#### Integrated Search Team
 Apr. 2018 - 
 
 * See you in Pan-gyo!
