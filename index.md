@@ -143,6 +143,8 @@ Sep. 2016 - Mar. 2017
       * C
    * Object Oriented Language
       * C++, C#, Java
+   * Web Language
+      * HTML, CSS
    * Functional Language
       * Scala
    * Logical Programming Language
@@ -150,7 +152,7 @@ Sep. 2016 - Mar. 2017
    * Modeling Language
       * UML, UPPAAL, NuSMV
    * Script Langues
-      * Bash, Ruby, Python
+      * Bash, Ruby, Python, JavaScript
 
 ## Language
 English(fluent), Korean(native)
