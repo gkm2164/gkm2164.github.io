@@ -36,8 +36,8 @@ Feb. 2018 ~ Mar. 2018
 2017.12 ~ 2018.01
 
 * **Teaching Assistant**, Elice
-   * T.A. for netmarble AI course
-   * Helped students by assistanting them using help center
+  *   T.A. for netmarble AI course
+  *   Helped students by assistanting them using help center
 
 2017.08 - 2017.09
 
