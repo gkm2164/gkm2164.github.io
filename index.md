@@ -33,26 +33,26 @@ Feb. 2018 ~ Mar. 2018
   * Instructor for Basic AI course
   * Live coding instructor!
 
-2017.12 ~ 2018.01
+Dec. 2017 ~ Jan. 2018
 
 * **Teaching Assistant**, Elice
   *   T.A. for netmarble AI course
   *   Helped students by assistanting them using help center
 
-2017.08 - 2017.09
+Aug. 2017 - Sep. 2017
 
 * **Teaching Assistant**, Elice
   * 인공지능 수업 조교 활동
   * 헬프세션을 통해 학생들 지도
 
 ### JU Consulting, Daejeon, Republic of Korea
-2015.01 ~ 2015.03
+Jan. 2015 ~ Mar. 2015
 
 * **Part Time Developer**, JU Consulting, 
   * Built a website with Ruby on Rails (http://goo.gl/F3dEjo).
 
 ### SMARDI, Suwon-si, Republic of Korea
-2011.09 ~ 2012.04
+Sep. 2011 ~ Apr. 2012
 
 * **Part Time Developer**, SMARDI, 
   * Developed library for a device that communicates with android devices through the audio connector. The devices send a set of different tones as a packet and the library analyzes the frequency of the packet and converts it to actual data. Other communication modules are reliable, but they are  expensive for massive production. The company developed a cheap and simple communication module that  was deployed by SMARDI on April 2012.
@@ -160,7 +160,7 @@ Feb. 2018 ~ Mar. 2018
    * Functional Language
       * Scala
    * Logical Programming Language
-	    * Prolog
+      * Prolog
    * Modeling Language
       * UML, UPPAAL, NuSMV
    * Script Langues
