@@ -29,13 +29,13 @@ Sep. 2016 - Mar. 2018
 ### [Elice](https://elice.io), Daejeon, Republic of Korea
 Feb. 2018 ~ Mar. 2018
 
-* **Instructor**, Elice
+* **Instructor**, Elice  
   * Instructor for Basic AI course
   * Live coding instructor!
 
 2017.12 ~ 2018.01
 
-* **Teaching Assistant**, Elice
+* **Teaching Assistant**, Elice  
   * T.A. for netmarble AI course
   * Helped students by assistanting them using help center
 
