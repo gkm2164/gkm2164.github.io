@@ -27,7 +27,19 @@ Sep. 2016 - Mar. 2018
      * Scala, Akka Framework, Spark, Hadoop, Redis
 
 ### [Elice](https://elice.io), Daejeon, Republic of Korea
-2016.08 - 2016.09
+Feb. 2018 ~ Mar. 2018
+
+* **Instructor**, Elice
+  * Instructor for Basic AI course
+  * Live coding instructor!
+
+2017.12 ~ 2018.01
+
+* **Teaching Assistant**, Elice
+  * T.A. for netmarble AI course
+  * Helped students by assistanting them using help center
+
+2017.08 - 2017.09
 
 * **Teaching Assistant**, Elice
   * 인공지능 수업 조교 활동
