@@ -7,15 +7,9 @@
 
 ## Work Experience
 
-### [Kakao](https://www.kakaocorp.com), Republic of Korea
-#### Integrated Search Part
-Apr. 2018 - 
-
-* See you in Pan-gyo!
-
 ### [Satrec Initiative](https://www.satreci.com), Republic of Korea
 #### Defense System Software Development Division
-Sep. 2016 - Mar. 2018
+Sep. 2016 - Present
 
 * **Associative Research Engineer**, 
   * 2016 - Current, _Project_, ADD
