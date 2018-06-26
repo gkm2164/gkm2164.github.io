@@ -15,7 +15,7 @@ permalink: /cv/
 * Fast Learner, Fast Applier
 * Highly motivated on writing and managing reusable design, and code.
 * Interested in constructing infrastructure.
-* Develop suitable module based on understanding of software architecture.
+* Try to develop suitable modules based on understanding of software architecture.
 
 ## Work Experience
 
