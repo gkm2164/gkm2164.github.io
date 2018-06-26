@@ -3,6 +3,7 @@ layout: post
 title:  "Curriculum Vitae"
 date:   2018-06-27 05:42:58 +0900
 permalink: /cv/
+layout: default
 ---
 # Curriculum Vitae
 
@@ -20,8 +21,7 @@ permalink: /cv/
 ## Work Experience
 
 ### [Kakao](https://www.kakaocorp.com), Republic of Korea
-#### R&D Center
-Apr. 2018 ~ Present
+#### R&D Center, Apr. 2018 ~ Present
 
 * June. 2018 ~ Present, Middle Layer of Daum Search
 * Apr. 2018 ~ Present, Domain Agent, Kakao Mini
@@ -29,8 +29,7 @@ Apr. 2018 ~ Present
    * Worked Domain: Lotto(Go), Exchange Rate(Go), Fortune(Go), Calendar(Go), Hometraining(Kotlin)
 
 ### [Satrec Initiative](https://www.satreci.com), Republic of Korea
-#### Defense System Software Development Division
-Sep. 2016 - Mar. 2018
+#### Defense System Software Development Division, Sep. 2016 - Mar. 2018
 
 * **Associative Research Engineer**, 
   * 2016 - Current, _Project_, ADD
@@ -43,44 +42,20 @@ Sep. 2016 - Mar. 2018
 
 ### [Elice](https://elice.io), Daejeon, Republic of Korea
 
-June. 2018 ~ June. 2018
-* **Teaching Assistant**, Algorithm, Data Structure
-  * T.A. for Algorithm, Data Structure courses.
-  * Helped students by assisting them with help center
-
-Mar. 2018 ~ May. 2018
-* **Teaching Assistant**
-  * T.A. for A.I Course for Sooncheon Univ.
-  * Helped students by assisting them with help center
-
-Feb. 2018 ~ Mar. 2018
-
-* **Instructor**  
-  * Instructor for Basic AI course
-  * Live coding instructor
-
-Dec. 2017 ~ Jan. 2018
-
-* **Teaching Assistant**
-  *   T.A. for netmarble AI course
-  *   Helped students by assisting them with help center
-
-Aug. 2017 - Sep. 2017
-
-* **Teaching Assistant**
-  * Artificial Intelligence course
-  * Helped students by assisting them with help center.
+* **Teaching Assistant**, Algorithm, Data Structure, _June. 2018 ~ June. 2018_
+* **Teaching Assistant**, Sooncheon Univ. Artificial Intelligence Course, _Mar. 2018 ~ May. 2018_
+* **Instructor**, Basic AI course, _Feb. 2018 ~ Mar. 2018_, Live coding
+* **Teaching Assistant**, netmarble AI course, _Dec. 2017 ~ Jan. 2018_
+* **Teaching Assistant**, Artificial Intelligence Course, _Aug. 2017 - Sep. 2017_
 
 ### JU Consulting, Daejeon, Republic of Korea
-Jan. 2015 ~ Mar. 2015
 
-* **Part Time Developer**, JU Consulting, 
+* **Part Time Developer**, JU Consulting, _Jan. 2015 ~ Mar. 2015_
   * Built a website with Ruby on Rails (http://goo.gl/F3dEjo).
 
 ### SMARDI, Suwon-si, Republic of Korea
-Sep. 2011 ~ Apr. 2012
 
-* **Part Time Developer**, SMARDI, 
+* **Part Time Developer**, SMARDI, Sep. 2011 ~ Apr. 2012
   * API and library for a communication over audio connector, Java.
     * The devices send a set of different tones as a packet and the library analyzes the frequency of the packet and converts it to actual data.
     * The company developed a cheap and simple communication module that  was deployed by SMARDI on April 2012.
@@ -94,9 +69,7 @@ Sep. 2011 ~ Apr. 2012
 
 #### Department of Computer Engineering
 
-2011.03 ~ 2012.08
-
-* **Research Assistant**	
+* **Research Assistant**, 2011.03 ~ 2012.08
   * Project: Developing an administration website for the Department of Software Engineering
      * Website, based on PHP, several important design patterns, such as MVC, Layered architecture.
      * Deployed to the Administration of Department of Software Engineering in SKKU
@@ -106,67 +79,51 @@ Sep. 2011 ~ Apr. 2012
      * The input was given as csv format and contained 95,000 slaves’ information, such as their master, father, and age. However, since the data referred to reports that were published over 600 years ago, most of the  input data was corrupted and removed. 
      * The frequent itemset mining method was used and the method suggested relations for approximately 9,000 ~ 10,000 slaves
 
-2010.09 ~ 2011.04
-
-* **Part Time Lecturer**
+* **Part Time Lecturer**, 2010.09 ~ 2011.04
   * Taught 4 students from Saudi Arabia Korean speaking courses, System Programming, and Operating System in English.
 
 #### Computer Systems Laboratory
 
-2010.10 ~ 2011.12
-
-* **Research Assistant**
+* **Research Assistant**, 2010.10 ~ 2011.12
   * Researched a hybrid file system that loads the metadata to secondary non-volatile memory (such as PRAM) to decrease the number of writing counts over SSD
   * Served as a teaching assistant for Operating System course and supported students to learn & develop OS with PintOS kernel
   * Mastered the  structure and development of Windows/Linux kernel module, device driver(disk driver), and file system
 
 #### Sungkyunkwan University Linux User Group (SKKULUG)
 
-2010.01 ~ 2012.12
-
-* **Club President**
+* **Club President**, _2010.01 ~ 2012.12_
   * Arranged and operated seminar for the Linux beginner with following topics: Bash shell, VIM with ctags and cscope, regular expression, and Python language
   * Arranged and managed study sessions that covered the Linux Kernel 2.6 version from boot loader to initialization of the kernel
 
 ## Courses
-2017.04 ~ 2017.08: 
 
-* Data Scientist Course, Elice
+* **Data Scientist Course**, Elice, _2017.04 ~ 2017.08_
   * Projects: Parliament Chatbot (Kakao Plus friend: ParChat)
 
-2017.08.28 ~ 2017.08.29:
-
-* C4I/NCW specialist course, Agency of Defensive Development in Korea.
+* **C4I/NCW specialist course**, Agency of Defensive Development in Korea, _2017.08.28 ~ 2017.08.29_
   * Overview of C4I communication system.
     * Command, Control, Communications, Computers and Intelligence
     * Overview of NCW Network Centric Warfare
 
-* Machine Learning by University on Coursera
+* **Machine Learning by Stanford University**, Coursera
   * Machine Learning by Stanford University on Coursera.
   * Certificate earned at Tuesday, January 31, 2017 5:39 AM GMT
   * [Certification](https://www.coursera.org/account/accomplishments/certificate/BGQZ4YPZ4ADC)
 
-2016.07.20 ~ 2017.07.22:
-
-* Requirement Engineering Short-term lecture, Software Society
+* **Requirement Engineering Short-term lecture**, Software Society, _2016.07.20 ~ 2017.07.22_
   * Learned Requirement Driven Development methodology
   * Deep understind in usecase and learned overview of how to apply those concepts to architecture.
 
 ## Educations
-2015 - _Present_
 
-* **Ph.D. Candidate in Computer Science**; Korea Advanced Institute of Science and Technology (Yuseong, Daejeon)
+* **Ph.D. Candidate in Computer Science**; Korea Advanced Institute of Science and Technology (Yuseong, Daejeon), 2015 - _Present_
    * Software Architecture Laboratory
 
-2013 - 2015
-
-* **M.S. in Computer Science**; Korea Advanced Institute of Science and Technology (Yuseong, Daejeon)
+* **M.S. in Computer Science**; Korea Advanced Institute of Science and Technology (Yuseong, Daejeon), 2013 - 2015
    * Thesis title: An Application Technique of Software Binding for Automation of Software Configuration*
    * Software Architecture Laboratory
 
-2006 - 2012
-
-* **B.S. in Computer Engineer**; Sungkyunkwn University (Suwon, Gyeonggi)
+* **B.S. in Computer Engineer**; Sungkyunkwn University (Suwon, Gyeonggi), 2006 - 2012
     * Graduation Work: Department of Software Engineer Administrative System
 
 ## Publications
