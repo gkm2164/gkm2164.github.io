@@ -13,8 +13,8 @@ permalink: /cv/
 
 ## Introduction
 * Fast Learner, Fast Applier
-* Highly motivated to write more reusable design, and code.
-* Interested in construct private infrastructure.
+* Highly motivated on writing and managing reusable design, and code.
+* Interested in constructing infrastructure.
 * Develop suitable module based on understanding of software architecture.
 
 ## Work Experience
