@@ -2,7 +2,7 @@
 layout: post
 title:  "Curriculum Vitae"
 date:   2018-06-27 05:42:58 +0900
-categories: about
+permalink: /cv/
 ---
 # Curriculum Vitae
 
