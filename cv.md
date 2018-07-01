@@ -13,32 +13,33 @@ layout: default
 * Git repository: [Github](https://github.com/gkm2164), [Bitbucket](https://bitbucket.org/gkm2164)
 
 ## Introduction
-* Fast Learner, Fast Applier
-* Highly motivated on writing and managing reusable design, and code.
-* Interested in constructing infrastructure.
-* Try to develop suitable modules based on understanding of software architecture.
+* Fast learning of new language and fast implementation
+* Fast in prototyping
+* Highly motivated on writing and managing reusable design, and code
+* Interested in constructing infrastructure
+* Try to develop suitable modules based on understanding of software architecture
 
 ## Work Experience
 
 ### [Kakao](https://www.kakaocorp.com), Republic of Korea
 #### R&D Center, Apr. 2018 ~ Present
 
-* June. 2018 ~ Present, Middle Layer of Daum Search
-* Apr. 2018 ~ Present, Domain Agent, Kakao Mini
+* Middle layer of Daum Search, June. 2018 ~ Present
+* Domain Agent for Kakao Mini AI speaker, Apr. 2018 ~ Present
    * Serving information for user's preprocessed query.
-   * Worked Domain: Lotto(Go), Exchange Rate(Go), Fortune(Go), Calendar(Go), Hometraining(Kotlin)
+   * Worked Domain: Lotto(Golang), Exchange Rate(Golang), Fortune(Golang), Calendar(Golang), Hometraining(Springboot with Kotlin)
 
 ### [Satrec Initiative](https://www.satreci.com), Republic of Korea
 #### Defense System Software Development Division, Sep. 2016 - Mar. 2018
 
 * **Associative Research Engineer**, 
-  * 2016 - Current, _Project_, ADD
-     * Applied Functional Programming approach for large size of data processing.
-     * C# 6.0, .Net Framework 4.5, WPF, MS-SQL 2012
-  * 2017 - Current
-     * SMUDI 3D Virtual Globe Development Project, Satrec Initiative Defense Division.
-     * Constructing tiling server using Scala/Akka/Play Framework/Spark/GeoTrellis
-     * Scala, Akka Framework, Spark, Hadoop, Redis
+  * 3D Virtual Globe Map Tile Server, Sep. 2017 - Feb. 2018
+    * SMUDI 3D Virtual Globe Development Project, Satrec Initiative Defense Division.
+    * Constructing tiling server using Scala/Akka/Play Framework/Spark/GeoTrellis
+    * Scala, Akka Framework, Spark, Hadoop, Redis
+  * Special Project, Oct. 2016 - Sep. 2017, _Project_, ADD
+    * Applied Functional Programming approach for large size of data processing.
+    * C# 6.0, .Net Framework 4.5, WPF, MS-SQL 2012
 
 ### [Elice](https://elice.io), Daejeon, Republic of Korea
 
