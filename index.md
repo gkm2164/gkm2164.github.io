@@ -12,11 +12,10 @@ layout: default
 * Git repository: [Github](https://github.com/gkm2164), [Bitbucket](https://bitbucket.org/gkm2164)
 
 ## Introduction
-* Fast learning of new language and fast implementation
-* Fast in prototyping
+* Fast in learning new language and implementing using that language.
 * Highly motivated on writing and managing reusable design, and code
 * Interested in constructing infrastructure
-* Try to develop suitable modules based on understanding of software architecture
+* Try to develop suitable modules based on deep understanding of software architecture
 
 ## Work Experience
 
