@@ -29,15 +29,14 @@ layout: default
 
 ### [Satrec Initiative](https://www.satreci.com), Republic of Korea
 #### Defense System Software Development Division, Sep. 2016 - Mar. 2018
-
-* **Associative Research Engineer**, 
-  * 3D Virtual Globe Map Tile Server, Sep. 2017 - Feb. 2018
-    * SMUDI 3D Virtual Globe Development Project, Satrec Initiative Defense Division.
-    * Constructing tiling server using Scala/Akka/Play Framework/Spark/GeoTrellis
-    * Scala, Akka Framework, Spark, Hadoop, Redis
-  * Special Project, Oct. 2016 - Sep. 2017, _Project_, ADD
-    * Applied Functional Programming approach for large size of data processing.
-    * C# 6.0, .Net Framework 4.5, WPF, MS-SQL 2012
+##### **Associative Research Engineer**, 
+* 3D Virtual Globe Map Tile Server, Sep. 2017 - Feb. 2018
+  * SMUDI 3D Virtual Globe Development Project, Satrec Initiative Defense Division.
+  * Constructing tiling server using Scala/Akka/Play Framework/Spark/GeoTrellis
+  * Scala, Akka Framework, Spark, Hadoop, Redis
+* Special Project, Oct. 2016 - Sep. 2017, _Project_, ADD
+  * Applied Functional Programming approach for large size of data processing.
+  * C# 6.0, .Net Framework 4.5, WPF, MS-SQL 2012
 
 ### [Elice](https://elice.io), Daejeon, Republic of Korea
 
