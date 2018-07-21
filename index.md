@@ -6,12 +6,13 @@ layout: default
 ---
 # Curriculum Vitae
 
-## Biographical
-* Name: Gyeongmin Go
+## Profile
+### Biography
+* Name: Gyeongmin Go (Ben)
 * E-mail: gkm2164\__at_\_gmail\__dot_\_com
 * Git repository: [Github](https://github.com/gkm2164), [Bitbucket](https://bitbucket.org/gkm2164)
 
-## Introduction
+### Introduction
 * Fast in learning new language and implementing using that language.
 * Highly motivated on writing and managing reusable design, and code
 * Interested in constructing infrastructure
@@ -20,7 +21,10 @@ layout: default
 ## Work Experience
 
 ### [Kakao](https://www.kakaocorp.com), Republic of Korea
-#### R&D Center, Apr. 2018 ~ Present
+#### R&D Center
+
+{:.float-right}
+_Apr. 2018 ~ Present_
 
 * Middle layer of Daum Search, June. 2018 ~ Present
 * Domain Agent for Kakao Mini AI speaker, Apr. 2018 ~ Present
@@ -28,7 +32,10 @@ layout: default
    * Worked Domain: Lotto(Golang), Exchange Rate(Golang), Fortune(Golang), Calendar(Golang), Hometraining(Springboot with Kotlin)
 
 ### [Satrec Initiative](https://www.satreci.com), Republic of Korea
-#### Defense System Software Development Division, Sep. 2016 - Mar. 2018
+#### Defense System Software Development Division
+
+{:.float-right}
+_Sep. 2016 - Mar. 2018_
 
 * 3D Virtual Globe Map Tile Server, Sep. 2017 - Feb. 2018
   * SMUDI 3D Virtual Globe Development Project, Satrec Initiative Defense Division.
@@ -41,6 +48,9 @@ layout: default
 
 ### [Elice](https://elice.io), Daejeon, Republic of Korea
 
+{:.float-right}
+_Aug. 2017 ~ June. 2018_
+
 * **Teaching Assistant**, Algorithm, Data Structure, _June. 2018 ~ June. 2018_
 * **Teaching Assistant**, Sooncheon Univ. Artificial Intelligence Course, _Mar. 2018 ~ May. 2018_
 * **Instructor**, Basic AI course, _Feb. 2018 ~ Mar. 2018_, Live coding
@@ -48,73 +58,95 @@ layout: default
 * **Teaching Assistant**, Artificial Intelligence Course, _Aug. 2017 - Sep. 2017_
 
 ### JU Consulting, Daejeon, Republic of Korea
+#### Part Time Developer
 
-* **Part Time Developer**, JU Consulting, _Jan. 2015 ~ Mar. 2015_
-  * Built a website with Ruby on Rails (http://goo.gl/F3dEjo).
+{:.float-right}
+_Jan. 2015 ~ Mar. 2015_
+
+* Built a website with Ruby on Rails (http://goo.gl/F3dEjo).
 
 ### SMARDI, Suwon-si, Republic of Korea
+#### Part Time Developer
 
-* **Part Time Developer**, SMARDI, Sep. 2011 ~ Apr. 2012
-  * API and library for a communication over audio connector, Java.
-    * The devices send a set of different tones as a packet and the library analyzes the frequency of the packet and converts it to actual data.
-    * The company developed a cheap and simple communication module that  was deployed by SMARDI on April 2012.
-  * A-Scan, a measuring application for alchol concentration in breath, Android Application.
-    * Developed an android application for measuring alcohol concentration in breath.
-    * uses an external device that is connected through the audio connector.
-    * The application gathers concentration of alcohol in breath from the device connected to the audio connector and analyzes the collected data.
-    * This application  was successfully deployed to SMARDI on December 2011.
+{:.float-right}
+_Sep. 2011 ~ Apr. 2012_
 
-### Sungkyunkwan University (SKKU), Suwon-si, Republic of Korea
+* API and library for a communication over audio connector, Java.
+  * The devices send a set of different tones as a packet and the library analyzes the frequency of the packet and converts it to actual data.
+  * The company developed a cheap and simple communication module that  was deployed by SMARDI on April 2012.
+* A-Scan, a measuring application for alchol concentration in breath, Android Application.
+  * Developed an android application for measuring alcohol concentration in breath.
+  * uses an external device that is connected through the audio connector.
+  * The application gathers concentration of alcohol in breath from the device connected to the audio connector and analyzes the collected data.
+  * This application  was successfully deployed to SMARDI on December 2011.
 
-#### Department of Computer Engineering
+### Dept. of Computer Engineering, Sungkyunkwan University (SKKU), Suwon-si, Republic of Korea
+#### Research Assistant
 
-* **Research Assistant**, 2011.03 ~ 2012.08
-  * Project: Developing an administration website for the Department of Software Engineering
-     * Website, based on PHP, several important design patterns, such as MVC, Layered architecture.
-     * Deployed to the Administration of Department of Software Engineering in SKKU
+{:.float-right}
+_Mar. 2011 ~ Aug. 2012_
 
-  * Project: Recovering family trees for slaves during Joseon Dynasty
-     * The project was conducted by Academy of East Asian studies in SKKU; helped in making a supporting tool that suggests the relations of slaves during the Joseon Dynasty
-     * The input was given as csv format and contained 95,000 slaves’ information, such as their master, father, and age. However, since the data referred to reports that were published over 600 years ago, most of the  input data was corrupted and removed. 
-     * The frequent itemset mining method was used and the method suggested relations for approximately 9,000 ~ 10,000 slaves
+* Project: Developing an administration website for the Department of Software Engineering
+    * Website, based on PHP, several important design patterns, such as MVC, Layered architecture.
+    * Deployed to the Administration of Department of Software Engineering in SKKU
 
-* **Part Time Lecturer**, 2010.09 ~ 2011.04
-  * Taught 4 students from Saudi Arabia Korean speaking courses, System Programming, and Operating System in English.
+* Project: Recovering family trees for slaves during Joseon Dynasty
+    * The project was conducted by Academy of East Asian studies in SKKU; helped in making a supporting tool that suggests the relations of slaves during the Joseon Dynasty
+    * The input was given as csv format and contained 95,000 slaves’ information, such as their master, father, and age. However, since the data referred to reports that were published over 600 years ago, most of the  input data was corrupted and removed. 
+    * The frequent itemset mining method was used and the method suggested relations for approximately 9,000 ~ 10,000 slaves
 
-#### Computer Systems Laboratory
+#### Part Time Lecturer
 
-* **Research Assistant**, 2010.10 ~ 2011.12
-  * Researched a hybrid file system that loads the metadata to secondary non-volatile memory (such as PRAM) to decrease the number of writing counts over SSD
-  * Served as a teaching assistant for Operating System course and supported students to learn & develop OS with PintOS kernel
-  * Mastered the  structure and development of Windows/Linux kernel module, device driver(disk driver), and file system
+{:.float-right}
+_Sep. 2010 ~ Apr. 2011_
 
-#### Sungkyunkwan University Linux User Group (SKKULUG)
+* Taught 4 students from Saudi Arabia Korean speaking courses, System Programming, and Operating System in English.
 
-* **Club President**, _2010.01 ~ 2012.12_
-  * Arranged and operated seminar for the Linux beginner with following topics: Bash shell, VIM with ctags and cscope, regular expression, and Python language
-  * Arranged and managed study sessions that covered the Linux Kernel 2.6 version from boot loader to initialization of the kernel
+### Computer Systems Laboratory, Sungkyunkwan University (SKKU), Suwon-si, Republic of Korea
+
+#### Research Assistant
+
+{:.float-right}
+_Oct. 2010 ~ Dec. 2011_
+
+* Researched a hybrid file system that loads the metadata to secondary non-volatile memory (such as PRAM) to decrease the number of writing counts over SSD
+* Served as a teaching assistant for Operating System course and supported students to learn & develop OS with PintOS kernel
+* Mastered the  structure and development of Windows/Linux kernel module, device driver(disk driver), and file system
 
 ## Courses
+### Data Scientist Course, Elice
 
-* **Data Scientist Course**, Elice, _2017.04 ~ 2017.08_
-  * Projects: Parliament Chatbot (Kakao Plus friend: ParChat)
+{:.float-right}
+_2017.04 ~ 2017.08_
 
-* **C4I/NCW specialist course**, Agency of Defensive Development in Korea, _2017.08.28 ~ 2017.08.29_
-  * Overview of C4I communication system.
-    * Command, Control, Communications, Computers and Intelligence
-    * Overview of NCW Network Centric Warfare
+* Course for training data scientist.
+* Projects: Parliament Chatbot (Kakao Plus friend: ParChat)
 
-* **Machine Learning by Stanford University**, Coursera
+### C4I/NCW specialist course, Agency of Defensive Development in Korea
+
+{:.float-right}
+_28, Aug, 2017 ~ 29, Aug, 2017_
+* Overview of C4I communication system.
+  * Command, Control, Communications, Computers and Intelligence
+  * Overview of NCW Network Centric Warfare
+
+### Machine Learning by Stanford University, Coursera
+
+{:.float-right}
+_Dec. 2016 ~ Jan. 2017_
   * Machine Learning by Stanford University on Coursera.
   * Certificate earned at Tuesday, January 31, 2017 5:39 AM GMT
-  * [Certification](https://www.coursera.org/account/accomplishments/certificate/BGQZ4YPZ4ADC)
+  * [Certification Link](https://www.coursera.org/account/accomplishments/certificate/BGQZ4YPZ4ADC)
 
-* **Requirement Engineering Short-term lecture**, Software Society, _2016.07.20 ~ 2017.07.22_
-  * Learned Requirement Driven Development methodology
-  * Deep understind in usecase and learned overview of how to apply those concepts to architecture.
+### Requirement Engineering Short-term lecture, Software Society
+
+{:.float-right}
+_20, Jul, 2016 ~ 22, Jul, 2016_
+
+* Learned Requirement Driven Development methodology
+* Deep understind in usecase and learned overview of how to apply those concepts to architecture.
 
 ## Educations
-
 * **Ph.D. Candidate in Computer Science**; Korea Advanced Institute of Science and Technology (Yuseong, Daejeon), 2015 - _Present_
    * Software Architecture Laboratory
 
@@ -134,28 +166,22 @@ layout: default
   * English title: ** Gyeongmin Go**, Sungwon Kang, Jongsun Ahn, "A Software Binding Application Tool based on Orthogonal Variability Description Language for Software Product Line Development," In Proceedings of 17th Korea Conference for Software Engineering(KCSE 2015), Pyeongchang Gangwon-do, 2015.
 
 ## Skill
-* Languages
-   * Low Level Language
-      * C, C++, Go
-   * Object Oriented Language
-      * C#, Java
-   * Web Language
-      * HTML, CSS, TypeScript, JavaScript
-   * Functional Language
-      * Scala
-   * Logical Programming Language
-      * Prolog
-   * Modeling Language
-      * UML, UPPAAL, NuSMV
-   * Script Langues
-      * Bash, Ruby, Python, JavaScript
-   * Frameworks
-      * Spring Boot Framework, Akka Framework, Ruby on Rails
+### Languages
+  * C, C++, Go
+  * C#, Java
+  * Scala, Clojure
+  * HTML, CSS
+  * Prolog
+  * UML, UPPAAL, NuSMV
+  * Bash, Ruby, Python, JavaScript, TypeScript
+
+### Frameworks
+  * Spring Boot Framework, Akka Framework, Ruby on Rails, WPF, WCF
 
 ## Language
 English(fluent), Korean(native)
 
-### [Curriculum Vitae](/cv)
-### [Blog](https://blog.gyeongmin.co)
-### [Docs](https://docs.gyeongmin.co)
-### [VCS](https://vcs.gyeongmin.co)
+## Sites
+* [Blog](https://blog.gyeongmin.co)
+* [Docs](https://docs.gyeongmin.co)
+* [VCS](https://vcs.gyeongmin.co)
