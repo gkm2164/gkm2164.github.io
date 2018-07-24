@@ -10,6 +10,8 @@ layout: default
 ### Biography
 * Name: Gyeongmin Go (Ben)
 * E-mail: gkm2164\__at_\_gmail\__dot_\_com
+* Job Title: Backend Developer, Data Engineer
+* Organization: Kakao Corp.
 * Git repository: [Github](https://github.com/gkm2164), [Bitbucket](https://bitbucket.org/gkm2164)
 
 ### Introduction
