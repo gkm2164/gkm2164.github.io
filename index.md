@@ -15,10 +15,11 @@ layout: default
 * Git repository: [Github](https://github.com/gkm2164), [Bitbucket](https://bitbucket.org/gkm2164)
 
 ### Introduction
-* Fast in learning new language and implementing using that language.
-* Highly motivated on writing and managing reusable design, and code
+* Fast in learning new language and use the language in real world.
+* Highly motivated on writing and managing safe and reusable design, and code
 * Interested in constructing infrastructure
 * Try to develop suitable modules based on deep understanding of software architecture
+* Like music a lot. Classic & Metal. Chopin & Dream Theater are my favorite artists.
 
 ## Work Experience
 
