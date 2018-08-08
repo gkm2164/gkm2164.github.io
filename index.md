@@ -40,6 +40,9 @@ _Apr. 2018 ~ Present_
 {:.float-right}
 _Sep. 2016 - Mar. 2018_
 
+* Cloud Detection on Satellite image, Jul. 2017 ~ Oct. 2017
+  * Working with Convolutional Neural Networks
+  * [Source Codes](https://gben.me/Pb4UtFoH)
 * 3D Virtual Globe Map Tile Server, Sep. 2017 - Feb. 2018
   * SMUDI 3D Virtual Globe Development Project, Satrec Initiative Defense Division.
   * I designed architecture of server, implemented it.
