@@ -15,11 +15,17 @@ layout: default
 * Git repository: [Github](https://github.com/gkm2164), [Bitbucket](https://bitbucket.org/gkm2164)
 
 ### Introduction
-* Fast in learning new language and use the language in real world.
+* Like to develop fullstack, and especially, play with using Scala, Akka Frameworka and Spark for backend, and Angular TypeScript for frontend
 * Highly motivated on writing and managing safe and reusable design, and code
 * Interested in constructing infrastructure
 * Try to develop suitable modules based on deep understanding of software architecture
 * Like music a lot. Classic & Metal. Chopin & Dream Theater are my favorite artists.
+
+### Current Operating Services!
+* [Ben's URL Shortener](https://gben.me): This is for URL shortener. You can use this! (Scala, Akka HTTP, Angular TypeScript)
+* [For word study](https://eng.gyeongmin.co): I'm currently studying TOEFL and GRE. (Scala, Akka HTTP, Angular TypeScript, Oxford Dictionary API)
+* [Wiki pages](https://docs.gyeongmin.co): I'm using my blog and wiki with Atlassian Confluence product.
+* [Repositories](https://vcs.gyeongmin.co): For my source code repository, Bitbucket is used.
 
 ## Work Experience
 
