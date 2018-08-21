@@ -146,6 +146,13 @@ _Oct. 2010 ~ Dec. 2011_
   * English title: ** Gyeongmin Go**, Sungwon Kang, Jongsun Ahn, "A Software Binding Application Tool based on Orthogonal Variability Description Language for Software Product Line Development," In Proceedings of 17th Korea Conference for Software Engineering(KCSE 2015), Pyeongchang Gangwon-do, 2015.
 
 ## Courses
+
+### Functional Programming Principles in Scala, Coursera
+
+{:.float-right}
+_Aug.2018_
+* [certificate](https://gben.me/3hEagb34)
+
 ### Data Scientist Course, Elice
 
 {:.float-right}
