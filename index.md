@@ -147,6 +147,11 @@ _Oct. 2010 ~ Dec. 2011_
 
 ## Courses
 
+### Functional Programming Design in Scala, Coursera
+{:.float-right}
+_Aug. 2018_
+* [certificate](https://gben.me/ZCIP2nUo)
+
 ### Functional Programming Principles in Scala, Coursera
 
 {:.float-right}
