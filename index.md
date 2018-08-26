@@ -147,6 +147,12 @@ _Oct. 2010 ~ Dec. 2011_
 
 ## Courses
 
+### Big Data Analysis with Scala and Spark, Coursera
+
+{:.float-right}
+_Aug. 2018_
+* [certificate](https://gben.me/O1Fs4c2z)
+
 ### Functional Programming Design in Scala, Coursera
 
 {:.float-right}
