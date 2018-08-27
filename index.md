@@ -147,23 +147,15 @@ _Oct. 2010 ~ Dec. 2011_
 
 ## Courses
 
-### Big Data Analysis with Scala and Spark, Coursera
+### Functional Programming in Scala Series, Coursera
 
 {:.float-right}
-_Aug. 2018_
-* [certificate](https://gben.me/O1Fs4c2z)
+_Aug. 2018 ~ Sep. 2018_
 
-### Functional Programming Design in Scala, Coursera
-
-{:.float-right}
-_Aug. 2018_
-* [certificate](https://gben.me/ZCIP2nUo)
-
-### Functional Programming Principles in Scala, Coursera
-
-{:.float-right}
-_Aug.2018_
-* [certificate](https://gben.me/3hEagb34)
+* Functional Programming Principles in Scala, Coursera, [certificate](https://gben.me/3hEagb34)
+* Functional Programming Design in Scala, Coursera, [certificate](https://gben.me/ZCIP2nUo)
+* Big Data Analysis with Scala and Spark, Coursera, [certificate](https://gben.me/O1Fs4c2z)
+* Parallel Programming, [certificate](https://gben.me/OZ4Giejf)
 
 ### Data Scientist Course, Elice
 
