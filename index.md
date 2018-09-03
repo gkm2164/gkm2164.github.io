@@ -151,7 +151,7 @@ _Oct. 2010 ~ Dec. 2011_
 
 {:.float-right}
 _Aug. 2018 ~ Sep. 2018_
-* [certificate](https://gben.me/lH0BQC7B)
+* [Certificate link](https://gben.me/lH0BQC7B)
 * Course lists
   * Functional Programming Principles in Scala, Coursera, [certificate](https://gben.me/3hEagb34)
   * Functional Programming Design in Scala, Coursera, [certificate](https://gben.me/ZCIP2nUo)
