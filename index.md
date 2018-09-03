@@ -15,13 +15,15 @@ layout: default
 * Git repository: [Github](https://github.com/gkm2164), [Bitbucket](https://bitbucket.org/gkm2164)
 
 ### Introduction
-* Like to develop fullstack, and especially, play with using Scala, Akka Frameworka and Spark for backend, and Angular TypeScript for frontend
+* Like to develop data process pipeline and apply to actual services
+* Uses **Scala** language or develop with FP approach
+* Go, Kotlin, Java
+* Sometimes can do fullstack
 * Highly motivated on writing and managing safe and reusable design, and code
 * Interested in constructing infrastructure
-* Try to develop suitable modules based on deep understanding of software architecture
 * Like music a lot. Classic & Metal. Chopin & Dream Theater are my favorite artists.
 
-### Current Operating Services!
+### Currently Operating Services!
 * [Ben's URL Shortener](https://gben.me): This is for URL shortener. You can use this! (Scala, Akka HTTP, Angular TypeScript)
 * [For word study](https://eng.gyeongmin.co): I'm currently studying TOEFL and GRE. (Scala, Akka HTTP, Angular TypeScript, Oxford Dictionary API)
 * [Wiki pages](https://docs.gyeongmin.co): I'm using my blog and wiki with Atlassian Confluence product.
@@ -147,7 +149,7 @@ _Oct. 2010 ~ Dec. 2011_
 
 ## Courses
 
-### Functional Programming in Scala, Coursera
+### Functional Programming in Scala Specialization Course, Coursera
 
 {:.float-right}
 _Aug. 2018 ~ Sep. 2018_
@@ -194,13 +196,13 @@ _20, Jul, 2016 ~ 22, Jul, 2016_
 
 ## Skill
 ### Languages
+  * Scala
   * C, C++, Go
   * C#, Java
-  * Scala, Clojure
   * HTML, CSS
+  * Bash, Ruby, Python, JavaScript, TypeScript
   * Prolog
   * UML, UPPAAL, NuSMV
-  * Bash, Ruby, Python, JavaScript, TypeScript
 
 ### Frameworks
   * Spring Boot Framework, Akka Framework, Ruby on Rails, WPF, WCF
