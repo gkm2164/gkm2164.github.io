@@ -15,11 +15,9 @@ layout: default
 * Git repository: [Github](https://github.com/gkm2164), [Bitbucket](https://bitbucket.org/gkm2164)
 
 ### Introduction
-* Like to develop data process pipeline and apply to actual services
-* Uses **Scala** language or develop with FP approach
-* Go, Kotlin, Java
-* Sometimes can do fullstack
-* Highly motivated on writing and managing safe and reusable design, and code
+* Interested in developing data process pipeline and applying to actual services
+* Currently working with Go, Python, Kotlin, Scala, Java
+* Highly motivated on writing and managing safe and reusable design, and produce code
 * Interested in constructing infrastructure
 * Like music a lot. Classic & Metal. Chopin & Dream Theater are my favorite artists.
 
@@ -37,8 +35,13 @@ layout: default
 {:.float-right}
 _Apr. 2018 ~ Present_
 
+* Lazzy, personalized portal service, July. 2018 ~ Present
+   * backend server - middle layer, lineup server
+   * recommend system
+   * data engineering - applying ML algorithms to service, like synonym, recommend, image process, etc.
 * Middle layer of Daum Search, June. 2018 ~ Present
 * Domain Agent for Kakao Mini AI speaker, Apr. 2018 ~ Present
+   * developing library, Go version
    * Serving information for user's preprocessed query.
    * Worked Domain: Lotto(Golang), Exchange Rate(Golang), Fortune(Golang), Calendar(Golang), Hometraining(Springboot with Kotlin)
 
@@ -196,9 +199,7 @@ _20, Jul, 2016 ~ 22, Jul, 2016_
 
 ## Skill
 ### Languages
-  * Scala
-  * C, C++, Go
-  * C#, Java
+  * Go, Scala, Java, Kotlin, C#, C, C++
   * HTML, CSS
   * Bash, Ruby, Python, JavaScript, TypeScript
   * Prolog
