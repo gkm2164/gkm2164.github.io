@@ -18,8 +18,7 @@ layout: default
 * Interested in developing data process pipeline and applying to actual services
 * Currently working with Go, Python, Kotlin, Scala, Java
 * Highly motivated on writing and managing safe and reusable design, and produce code
-* Interested in constructing infrastructure
-* Like music a lot. Classic & Metal. Chopin & Dream Theater are my favorite artists.
+* Interested in constructing full stack software.
 
 ### Currently Operating Services!
 * [Ben's URL Shortener](https://gben.me): This is for URL shortener. You can use this! (Scala, Akka HTTP, Angular TypeScript)
@@ -90,7 +89,8 @@ _Sep. 2011 ~ Apr. 2012_
 
 * API and library for a communication over audio connector, Java.
   * The devices send a set of different tones as a packet and the library analyzes the frequency of the packet and converts it to actual data.
-  * The company developed a cheap and simple communication module that  was deployed by SMARDI on April 2012.
+  * The company developed a cheap and simple communication module that was deployed by SMARDI on April 2012.
+  
 * A-Scan, a measuring application for alchol concentration in breath, Android Application.
   * Developed an android application for measuring alcohol concentration in breath.
   * uses an external device that is connected through the audio connector.
@@ -200,6 +200,7 @@ _20, Jul, 2016 ~ 22, Jul, 2016_
 ## Skill
 ### Languages
   * Go, Scala, Java, Kotlin, C#, C, C++
+  * Clojure
   * HTML, CSS
   * Bash, Ruby, Python, JavaScript, TypeScript
   * Prolog
