@@ -15,10 +15,11 @@ layout: default
 * Git repository: [Github](https://github.com/gkm2164), [Bitbucket](https://bitbucket.org/gkm2164)
 
 ### Introduction
-* Interested in developing data process pipeline and applying to actual services
-* Currently working with Go, Python, Kotlin, Scala, Java
-* Highly motivated on writing and managing safe and reusable design, and produce code
-* Interested in constructing full stack software.
+* Highly motivated on desining, implementing and managing software to be safe and well resuable
+* Currently working with Go, Scala, Kotlin, Python, Java
+* Interested in develop software with Functional Programming approach
+* "How to make good software?(in terms of safety, reusability, efficiency)", that's my main curiosity.
+* Interested in inspect user data.
 
 ### Currently Operating Services!
 * [Ben's URL Shortener](https://gben.me): This is for URL shortener. You can use this! (Scala, Akka HTTP, Angular TypeScript)
@@ -34,11 +35,20 @@ layout: default
 {:.float-right}
 _Apr. 2018 ~ Present_
 
+* Middle layer of Daum Search, June. 2018 ~ Present
+   * middle for `Finding missing children`, Kotlin
+
 * Lazzy, personalized portal service, July. 2018 ~ Present
    * backend server - middle layer, lineup server
    * recommend system
    * data engineering - applying ML algorithms to service, like synonym, recommend, image process, etc.
-* Middle layer of Daum Search, June. 2018 ~ Present
+
+* # Tab in Kakao, June. 2018 ~ July. 2018
+   * admin tool with vue.js, golang
+   * redis writer
+   * deadlink checker, fast json reader(https://gben.me/W6TOA1uH)
+      * with complex json strings, targeting path with regex like pattern.
+
 * Domain Agent for Kakao Mini AI speaker, Apr. 2018 ~ Present
    * developing library, Go version
    * Serving information for user's preprocessed query.
