@@ -43,7 +43,7 @@ _Apr. 2018 ~ Present_
    * recommend system
    * data engineering - applying ML algorithms to service, like synonym, recommend, image process, etc.
 
-* # Tab in Kakao, June. 2018 ~ July. 2018
+* &#35; Tab in Kakao, June. 2018 ~ July. 2018
    * admin tool with vue.js, golang
    * redis writer
    * deadlink checker, fast json reader(https://gben.me/W6TOA1uH)
