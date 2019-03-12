@@ -18,7 +18,7 @@ layout: default
 * Highly motivated on desining, implementing and managing software to be safe and well resuable
 * Currently working with Go, Scala, Kotlin, Python, Java
 * Interested in develop software with Functional Programming approach
-* "How to make good software?(in terms of safety, reusability, efficiency)", that's my main curiosity.
+* "How to make good software?(in terms of safety, reusability, efficiency)", that's my main concern.
 * Interested in inspect user data.
 
 ### Currently Operating Services!
