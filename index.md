@@ -16,14 +16,14 @@ layout: default
 
 ### Introduction
 * Highly motivated on desining, implementing and managing software to be safe and well resuable
-* Currently working with Go, Scala, Kotlin, Python, Java
+* Currently working with Go, Scala, Kotlin for server development
 * Interested in develop software with Functional Programming approach
 * "How to make good software?(in terms of safety, reusability, efficiency)", that's my main concern.
 * Interested in inspect user data.
 
 ### Currently Operating Services!
-* [Ben's URL Shortener](https://gben.me): This is for URL shortener. You can use this! (Scala, Akka HTTP, Angular TypeScript)
-* [For word study](https://eng.gyeongmin.co): I'm currently studying TOEFL and GRE. (Scala, Akka HTTP, Angular TypeScript, Oxford Dictionary API)
+* [Ben's URL Shortener](https://gben.me): This is for URL shortener. Anyone can use this! (Scala, Akka HTTP, Angular TypeScript)
+* [For word study](https://eng.gyeongmin.co): Words, Currently, studying TOEFL and GRE. (Scala, Akka HTTP, Angular TypeScript, Oxford Dictionary API)
 * [Wiki pages](https://docs.gyeongmin.co): I'm using my blog and wiki with Atlassian Confluence product.
 * [Repositories](https://vcs.gyeongmin.co): For my source code repository, Bitbucket is used.
 
@@ -36,7 +36,8 @@ layout: default
 _Apr. 2018 ~ Present_
 
 * Middle layer of Daum Search, June. 2018 ~ Present
-   * middle for `Finding missing children`, Kotlin
+   * middle server for `Finding missing children`, Kotlin
+   * [Safe182](http://www.safe182.go.kr) API
 
 * Lazzy, personalized portal service, July. 2018 ~ Present
    * backend server - middle layer, lineup server
@@ -52,7 +53,7 @@ _Apr. 2018 ~ Present_
 * Domain Agent for Kakao Mini AI speaker, Apr. 2018 ~ Present
    * developing library, Go version
    * Serving information for user's preprocessed query.
-   * Worked Domain: Lotto(Golang), Exchange Rate(Golang), Fortune(Golang), Calendar(Golang), Hometraining(Springboot with Kotlin)
+   * Domain: Lotto(Golang), Exchange Rate(Golang), Fortune(Golang), Calendar(Golang), Hometraining(Springboot with Kotlin)
 
 ### [Satrec Initiative](https://www.satreci.com), Republic of Korea
 #### Defense System Software Development Division
