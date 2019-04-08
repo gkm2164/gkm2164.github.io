@@ -12,7 +12,7 @@ layout: default
 * E-mail: gkm2164\__at_\_gmail\__dot_\_com
 * Job Title: Backend Developer, Data Engineer
 * Organization: Kakao Corp.
-* Git repository: [Github](https://github.com/gkm2164), [Bitbucket](https://bitbucket.org/gkm2164)
+* Git repository: [Github](https://github.com/gkm2164), [Bitbucket](https://bitbucket.org/gkm2164), [Private Bitbucket](https://vcs.gyeongmin.co)
 
 ### Introduction
 * Highly motivated on desining, implementing and managing software to be safe and well resuable
