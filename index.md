@@ -23,9 +23,9 @@ layout: default
 
 ### Currently Operating Services!
 * [Ben's URL Shortener](https://gben.me): This is for URL shortener. Anyone can use this! (Scala, Akka HTTP, Angular TypeScript)
-* [For word study](https://eng.gyeongmin.co): Words, Currently, studying TOEFL and GRE. (Scala, Akka HTTP, Angular TypeScript, Oxford Dictionary API)
-* [Wiki pages](https://docs.gyeongmin.co): I'm using my blog and wiki with Atlassian Confluence product.
-* [Repositories](https://vcs.gyeongmin.co): For my source code repository, Bitbucket is used.
+* [For word study](https://eng.gyeongmin.co): Words, currently, studying TOEFL and GRE. (Scala, Akka HTTP, Angular TypeScript, Oxford Dictionary API)
+* [Wiki pages](https://docs.gyeongmin.co): *Confluence*, as my blog.
+* [Repositories](https://vcs.gyeongmin.co): *Bitbucket*,  as my source code repository.
 
 ## Work Experience
 
@@ -54,6 +54,7 @@ _Apr. 2018 ~ Present_
    * developing library, Go version
    * Serving information for user's preprocessed query.
    * Domain: Lotto(Golang), Exchange Rate(Golang), Fortune(Golang), Calendar(Golang), Hometraining(Springboot with Kotlin)
+   * Related artifact: Go doc generator(Scala + Java)
 
 ### [Satrec Initiative](https://www.satreci.com), Republic of Korea
 #### Defense System Software Development Division
