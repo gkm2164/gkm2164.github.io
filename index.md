@@ -142,6 +142,9 @@ _Oct. 2010 ~ Dec. 2011_
 * Served as a teaching assistant for Operating System course and supported students to learn & develop OS with PintOS kernel
 * Mastered the  structure and development of Windows/Linux kernel module, device driver(disk driver), and file system
 
+## OpenSource Contribution
+* [Ktor](https://github.com/ktorio/ktor), for client, introduced allowing many Content-Type not only ```application/json``` but also other custom types, _Apr. 2019 ~ May. 2019_, (Pull request: https://github.com/ktorio/ktor/pull/1036)
+
 ## Educations
 * **Ph.D. Candidate in Computer Science**; Korea Advanced Institute of Science and Technology (Yuseong, Daejeon), 2015 - _Present_
    * Software Architecture Laboratory
