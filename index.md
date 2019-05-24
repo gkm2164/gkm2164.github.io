@@ -210,19 +210,19 @@ _Dec. 2016 ~ Jan. 2017_
 _20, Jul, 2016 ~ 22, Jul, 2016_
 
 * Learned Requirement Driven Development methodology
-* Deep understind in usecase and learned overview of how to apply those concepts to architecture.
+* Overview for how to draw usecase diagram and how to apply those concepts to architecture.
 
 ## Skill
 ### Languages
   * Go, Scala, Java, Kotlin, C#, C, C++
-  * Clojure
   * HTML, CSS
   * Bash, Ruby, Python, JavaScript, TypeScript
   * Prolog
+  * Clojure
   * UML, UPPAAL, NuSMV
 
 ### Frameworks
-  * Spring Boot Framework, Akka Framework, Ruby on Rails, WPF, WCF
+  * Spring Boot Framework, Akka Framework, Ruby on Rails, WPF
 
 ## Language
 English(fluent), Korean(native)
