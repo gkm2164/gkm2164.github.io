@@ -36,13 +36,14 @@ layout: default
 _Apr. 2018 ~ Present_
 
 * Middle layer of Daum Search, June. 2018 ~ Present
-   * middle server for `Finding missing children`, Kotlin
-   * [Safe182](http://www.safe182.go.kr) API
+   * web app which provides _missing child finding service_ for Daum portal service, the data is provided from [Safe182](http://www.safe182.go.kr) API
+   * design, develop, and maintaining
+   * Kotlin, used several functional approach(Monad, immutable data structure)
 
 * Lazzy, personalized portal service, July. 2018 ~ Present
    * backend server - middle layer, lineup server
-   * recommend system
-   * data engineering - applying ML algorithms to service, like synonym, recommend, image process, etc.
+   * developed recommend system
+   * data engineering - implmented ML algorithms and applied to service, to synonym, recommend, image process, etc.
 
 * &#35; Tab in Kakao, June. 2018 ~ July. 2018
    * admin tool with vue.js, golang
@@ -50,11 +51,13 @@ _Apr. 2018 ~ Present_
    * deadlink checker, fast json reader(https://gben.me/W6TOA1uH)
       * with complex json strings, targeting path with regex like pattern.
 
-* Domain Agent for Kakao Mini AI speaker, Apr. 2018 ~ Present
-   * developing library, Go version
+* Domain Agent(Skill server) for Kakao Mini AI speaker, Apr. 2018 ~ Present
+   * skill server for several domains
+      * Domain: Lotto(Golang), Exchange Rate(Golang), Fortune(Golang), Calendar(Golang), Hometraining(Springboot with Kotlin)
+   * developing Go version library for developing skill server 
    * Serving information for user's preprocessed query.
-   * Domain: Lotto(Golang), Exchange Rate(Golang), Fortune(Golang), Calendar(Golang), Hometraining(Springboot with Kotlin)
-   * Related artifact: Go doc generator(Scala + Java)
+   * Go, Kotlin, Spring
+      * during developing go version library, develop go/java doc generator(scala, java, https://gben.me/fnRNalbL) to reduce the cost to write documentation
 
 ### [Satrec Initiative](https://www.satreci.com), Republic of Korea
 #### Defense System Software Development Division
