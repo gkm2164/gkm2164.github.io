@@ -15,15 +15,15 @@ layout: default
 * Git repository: [Github](https://github.com/gkm2164), [Bitbucket](https://bitbucket.org/gkm2164), [Private Bitbucket](https://vcs.gyeongmin.co)
 
 ### Introduction
-* Highly motivated on desining, implementing and managing software to be safe and well resuable
+* Highly motivated on desining, implementing and managing software to be safe and well reusable
 * Currently working with Go, Scala, Kotlin for server development
 * Interested in develop software with Functional Programming approach
-* "How to make good software?(in terms of safety, reusability, efficiency)", that's my main concern.
+* "How to make good software? (in terms of safety, reusability, efficiency)", that's my main concern.
 * Interested in inspect user data.
 
 ### Currently Operating Services!
 * [Ben's URL Shortener](https://gben.me): This is for URL shortener. Anyone can use this! (Scala, Akka HTTP, Angular TypeScript)
-* [For word study](https://eng.gyeongmin.co): Words, currently, studying TOEFL and GRE. (Scala, Akka HTTP, Angular TypeScript, Oxford Dictionary API)
+* [For word study](https://eng.gyeongmin.co): Words which occurred on GRE frequently. (Scala, Akka HTTP, Angular TypeScript, Oxford Dictionary API)(Scala, Akka HTTP, Angular TypeScript, Oxford Dictionary API)
 * [Wiki pages](https://docs.gyeongmin.co): *Confluence*, as my blog.
 * [Repositories](https://vcs.gyeongmin.co): *Bitbucket*,  as my source code repository.
 
@@ -43,21 +43,21 @@ _Apr. 2018 ~ Present_
 * Lazzy, personalized portal service, July. 2018 ~ Present
    * backend server - middle layer, lineup server
    * developed recommend system
-   * data engineering - implmented ML algorithms and applied to service, to synonym, recommend, image process, etc.
+   * data engineering - appplied several ML algorithms and applied to service, to synonym, recommend, image process, etc.
 
 * &#35; Tab in Kakao, June. 2018 ~ July. 2018
    * admin tool with vue.js, golang
-   * redis writer
-   * deadlink checker, fast json reader(https://gben.me/W6TOA1uH)
-      * with complex json strings, targeting path with regex like pattern.
+   * redis writer, deadlink checker
+   * fast json reader(https://gben.me/W6TOA1uH)
+      * read necessary data only with a field name as an input.
 
 * Domain Agent(Skill server) for Kakao Mini AI speaker, Apr. 2018 ~ Present
    * skill server for several domains
-      * Domain: Lotto(Golang), Exchange Rate(Golang), Fortune(Golang), Calendar(Golang), Hometraining(Springboot with Kotlin)
+      * Domain: Lotto (Golang), Exchange Rate (Golang), Fortune (Golang), Calendar (Golang), Hometraining (Springboot with Kotlin)
    * developing Go version library for developing skill server 
    * Serving information for user's preprocessed query.
    * Go, Kotlin, Spring
-      * during developing go version library, develop go/java doc generator(scala, java, https://gben.me/fnRNalbL) to reduce the cost to write documentation
+      * during developing go version library, developed go/java doc generator too. (Scala, Java, https://gben.me/fnRNalbL) to reduce the cost to write documentation
 
 ### [Satrec Initiative](https://www.satreci.com), Republic of Korea
 #### Defense System Software Development Division
@@ -66,7 +66,7 @@ _Apr. 2018 ~ Present_
 _Sep. 2016 - Mar. 2018_
 
 * Cloud Detection on Satellite image, Jul. 2017 ~ Oct. 2017
-  * Working with Convolutional Neural Networks
+  * Implemented cloud identification algorithm which is based on CNN
   * [Source Codes](https://gben.me/Pb4UtFoH)
 * 3D Virtual Globe Map Tile Server, Sep. 2017 - Feb. 2018
   * SMUDI 3D Virtual Globe Development Project, Satrec Initiative Defense Division.
@@ -103,14 +103,14 @@ _Jan. 2015 ~ Mar. 2015_
 _Sep. 2011 ~ Apr. 2012_
 
 * API and library for a communication over audio connector, Java.
-  * The devices send a set of different tones as a packet and the library analyzes the frequency of the packet and converts it to actual data.
-  * The company developed a cheap and simple communication module that was deployed by SMARDI on April 2012.
+  * Make a communication library which uses different pitches as a packet.
+  * Make module as a jar file and was deployed by SMARDI on April 2012.
+  * Java
   
 * A-Scan, a measuring application for alchol concentration in breath, Android Application.
-  * Developed an android application for measuring alcohol concentration in breath.
-  * uses an external device that is connected through the audio connector.
-  * The application gathers concentration of alcohol in breath from the device connected to the audio connector and analyzes the collected data.
-  * This application  was successfully deployed to SMARDI on December 2011.
+  * Developed an android application for measuring alcohol concentration in human breathe uses an external device that is connected through the audio connector.
+  * Refactored previously developed codes and add several features
+  * Java, This application was successfully deployed to SMARDI on Dec. 2011.
 
 ### Dept. of Computer Engineering, Sungkyunkwan University (SKKU), Suwon-si, Republic of Korea
 #### Research Assistant
@@ -123,9 +123,9 @@ _Mar. 2011 ~ Aug. 2012_
     * Deployed to the Administration of Department of Software Engineering in SKKU
 
 * Project: Recovering family trees for slaves during Joseon Dynasty
-    * The project was conducted by Academy of East Asian studies in SKKU; helped in making a supporting tool that suggests the relations of slaves during the Joseon Dynasty
-    * The input was given as csv format and contained 95,000 slaves’ information, such as their master, father, and age. However, since the data referred to reports that were published over 600 years ago, most of the  input data was corrupted and removed. 
-    * The frequent itemset mining method was used and the method suggested relations for approximately 9,000 ~ 10,000 slaves
+    * Data engineer project to recover family relations during the Joseon Dynasty with CSV format data (95,000 slaves' information)
+    * Used the frequent itemset mining algorithm and used and the method suggested relations for approximately 9,000 ~ 10,000 slaves
+    * PHP, MySQL for suggestion tool and Excel for data inspection
 
 #### Part Time Lecturer
 
@@ -146,7 +146,8 @@ _Oct. 2010 ~ Dec. 2011_
 * Mastered the  structure and development of Windows/Linux kernel module, device driver(disk driver), and file system
 
 ## OpenSource Contribution
-* [Ktor](https://github.com/ktorio/ktor), a Kotlin web framework library, introduced allowing many Content-Type not only ```application/json``` but also other custom types for Ktor client, _Apr. 2019 ~ May. 2019_, (Pull request: https://github.com/ktorio/ktor/pull/1036)
+* [Ktor](https://github.com/ktorio/ktor), a Kotlin web framework library
+   * introduced allowing many Content-Type not only ```application/json``` but also other custom types for Ktor client, _Apr. 2019 ~ May. 2019_, (Pull request: https://github.com/ktorio/ktor/pull/1036)
 
 ## Educations
 * **Ph.D. Candidate in Computer Science**; Korea Advanced Institute of Science and Technology (Yuseong, Daejeon), 2015 - _Present_
@@ -164,9 +165,7 @@ _Oct. 2010 ~ Dec. 2011_
 
 * **Gyeongmin Go**, Sungwon Kang, and Jongsun Ahn, “A Software Binding Application Tool based on Orthogonal Variability Description Language for Software Product Line Development,” In Proceedings of 16th IEEE/ACIS International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing (SNPD 2015), Takamatsu, Japan, 2015
   * [Tool link here](https://bitbucket.org/gkm2164/sbat-ovdl)
-
-* **고경민**, 강성원, 안종선 “소프트웨어 제품라인 개발을 위한 직교적 가변성 기술 언어 기반의 소프트웨어 바인딩 적용 도구”, 제 17회 한국 소프트웨어공학 학술대회(KCSE 2015), 강원도 평창, 2015.
-  * English title: ** Gyeongmin Go**, Sungwon Kang, Jongsun Ahn, "A Software Binding Application Tool based on Orthogonal Variability Description Language for Software Product Line Development," In Proceedings of 17th Korea Conference for Software Engineering(KCSE 2015), Pyeongchang Gangwon-do, 2015.
+* **Gyeongmin Go**, Sungwon Kang, Jongsun Ahn, "A Software Binding Application Tool based on Orthogonal Variability Description Language for Software Product Line Development," In Proceedings of 17th Korea Conference for Software Engineering(KCSE 2015), Pyeongchang Gangwon-do, 2015. (Korean)
 
 ## Courses
 
