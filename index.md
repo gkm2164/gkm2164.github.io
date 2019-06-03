@@ -35,12 +35,20 @@ layout: default
 {:.float-right}
 _Apr. 2018 ~ Present_
 
-* Middle layer of Daum Search, June. 2018 ~ Present
+* Domain Agent(Skill server) for Kakao Mini AI speaker, Apr. 2018 ~ Present
+   * skill server for several domains
+      * Domain: Lotto (Golang), Exchange Rate (Golang), Fortune (Golang), Calendar (Golang), Hometraining (Springboot with Kotlin)
+   * developing Go version library for developing skill server 
+   * Serving information for user's preprocessed query.
+   * Go, Kotlin, Spring
+      * during developing go version library, developed go/java doc generator too. (Scala, Java, https://gben.me/fnRNalbL) to reduce the cost to write documentation
+
+* Middle layer of Daum Search, Apr. 2019
    * web app which provides _missing child finding service_ for Daum portal service, the data is provided from [Safe182](http://www.safe182.go.kr) API
    * design, develop, and maintaining
    * Kotlin, used several functional approach(Monad, immutable data structure)
 
-* Lazzy, personalized portal service, July. 2018 ~ Present
+* Lazzy, personalized portal service, July. 2018 ~ Jan. 2019
    * backend server - middle layer, lineup server
    * developed recommend system
    * data engineering - appplied several ML algorithms and applied to service, to synonym, recommend, image process, etc.
@@ -50,14 +58,6 @@ _Apr. 2018 ~ Present_
    * redis writer, deadlink checker
    * fast json reader(https://gben.me/W6TOA1uH)
       * read necessary data only with a field name as an input.
-
-* Domain Agent(Skill server) for Kakao Mini AI speaker, Apr. 2018 ~ Present
-   * skill server for several domains
-      * Domain: Lotto (Golang), Exchange Rate (Golang), Fortune (Golang), Calendar (Golang), Hometraining (Springboot with Kotlin)
-   * developing Go version library for developing skill server 
-   * Serving information for user's preprocessed query.
-   * Go, Kotlin, Spring
-      * during developing go version library, developed go/java doc generator too. (Scala, Java, https://gben.me/fnRNalbL) to reduce the cost to write documentation
 
 ### [Satrec Initiative](https://www.satreci.com), Republic of Korea
 #### Defense System Software Development Division
