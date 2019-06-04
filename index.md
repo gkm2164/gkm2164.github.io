@@ -148,6 +148,8 @@ _Oct. 2010 ~ Dec. 2011_
 ## OpenSource Contribution
 * [Ktor](https://github.com/ktorio/ktor), a Kotlin web framework library
    * introduced allowing many Content-Type not only ```application/json``` but also other custom types for Ktor client, _Apr. 2019 ~ May. 2019_, (Pull request: https://github.com/ktorio/ktor/pull/1036)
+* [Levsha HTML](https://github.com/fomkin/levsha), Fast Scala eDSL for HTML
+   * suggestion for adding ```enableAutoIndent``` option to ```TextPrettyPrintingConfig```, _June. 2019_, (Pull request: https://github.com/fomkin/levsha/pull/23)
 
 ## Educations
 * **Ph.D. Candidate in Computer Science**; Korea Advanced Institute of Science and Technology (Yuseong, Daejeon), 2015 - _Present_
