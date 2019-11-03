@@ -27,6 +27,10 @@ layout: default
 * [Wiki pages](https://docs.gyeongmin.co): *Confluence*, as my blog.
 * [Repositories](https://vcs.gyeongmin.co): *Bitbucket*,  as my source code repository.
 
+### Private Projects
+* [Java doc generator](https://github.com/gkm2164/java-doc-creator): Java document generator (code reformatting)
+* [lengine](https://github.com/gkm2164/lisp-parser): Another lisp engine written in Scala
+
 ## Work Experience
 
 ### [Kakao](https://www.kakaocorp.com), Republic of Korea
