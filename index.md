@@ -12,7 +12,7 @@ layout: default
 * E-mail: gkm2164\__at_\_gmail\__dot_\_com
 * Job Title: Backend Developer, Data Engineer
 * Organization: Kakao Corp.
-* Git repository: [Github](https://github.com/gkm2164), [Bitbucket](https://bitbucket.org/gkm2164), [Private Bitbucket](https://vcs.gyeongmin.co)
+* Git repository: [Github](https://github.com/gkm2164), [Bitbucket](https://bitbucket.org/gkm2164), [Private Bitbucket](https://vcs.gyeongmin.co - temporarily unavailable service due to relocation ~ Dec. 31)
 
 ### Introduction
 * Highly motivated on desining, implementing and managing software to be safe and well reusable
@@ -22,10 +22,10 @@ layout: default
 * Interested in inspect user data.
 
 ### Currently Operating Services!
-* [Ben's URL Shortener](https://gben.me): This is for URL shortener. Anyone can use this! (Scala, Akka HTTP, Angular TypeScript)
-* [For word study](https://eng.gyeongmin.co): Words which occurred on GRE frequently. (Scala, Akka HTTP, Angular TypeScript, Oxford Dictionary API)(Scala, Akka HTTP, Angular TypeScript, Oxford Dictionary API)
-* [Wiki pages](https://docs.gyeongmin.co): *Confluence*, as my blog.
-* [Repositories](https://vcs.gyeongmin.co): *Bitbucket*,  as my source code repository.
+* [Ben's URL Shortener](https://gben.me): This is for URL shortener. Anyone can use this! (Scala, Akka HTTP, Angular TypeScript) (temporarily unavailable service due to relocation ~ Dec. 31)
+* [For word study](https://eng.gyeongmin.co): Words which occurred on GRE frequently. (Scala, Akka HTTP, Angular TypeScript, Oxford Dictionary API)(Scala, Akka HTTP, Angular TypeScript, Oxford Dictionary API) (temporarily unavailable service due to relocation ~ Dec. 31)
+* [Wiki pages](https://docs.gyeongmin.co): *Confluence*, as my blog. (temporarily unavailable service due to relocation ~ Dec. 31)
+* [Repositories](https://vcs.gyeongmin.co): *Bitbucket*,  as my source code repository. (temporarily unavailable service due to relocation ~ Dec. 31)
 
 ### Private Projects
 * [Java doc generator](https://github.com/gkm2164/java-doc-creator): Java document generator (code reformatting)
