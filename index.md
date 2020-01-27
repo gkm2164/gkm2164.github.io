@@ -33,11 +33,18 @@ layout: default
 
 ## Work Experience
 
+### [Amazon](https://www.amazon.ca), Canada
+#### Seller Experience Tool Technology
+
+{:.float-right}
+_Dec. 2019 ~ Present_
+* Currently working.
+
 ### [Kakao](https://www.kakaocorp.com), Republic of Korea
 #### R&D Center
 
 {:.float-right}
-_Apr. 2018 ~ Present_
+_Apr. 2018 ~ Oct. 2019_
 
 * Domain Agent(Skill server) for Kakao Mini AI speaker, Apr. 2018 ~ Present
    * skill server for several domains
