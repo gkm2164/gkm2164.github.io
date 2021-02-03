@@ -10,8 +10,8 @@ layout: default
 ### Biography
 * Name: Gyeongmin Go (Ben)
 * E-mail: gkm2164\__at_\_gmail\__dot_\_com
-* Job Title: Backend Developer, Data Engineer
-* Organization: Kakao Corp.
+* Job Title: Software Development Engineer II
+* Organization: Amazon in Vancouver, CA
 * Git repository: [Github](https://github.com/gkm2164), [Bitbucket](https://bitbucket.org/gkm2164), [Private Bitbucket](https://vcs.gyeongmin.co - temporarily unavailable service due to relocation ~ Dec. 31)
 
 ### Introduction
@@ -21,12 +21,6 @@ layout: default
 * "How to make good software? (in terms of safety, reusability, efficiency)", that's my main concern.
 * Interested in inspect user data.
 
-### Currently Operating Services!
-* [Ben's URL Shortener](https://gben.me): This is for URL shortener. Anyone can use this! (Scala, Akka HTTP, Angular TypeScript) (temporarily unavailable service due to relocation ~ Dec. 31)
-* [For word study](https://eng.gyeongmin.co): Words which occurred on GRE frequently. (Scala, Akka HTTP, Angular TypeScript, Oxford Dictionary API)(Scala, Akka HTTP, Angular TypeScript, Oxford Dictionary API) (temporarily unavailable service due to relocation ~ Dec. 31)
-* [Wiki pages](https://docs.gyeongmin.co): *Confluence*, as my blog. (temporarily unavailable service due to relocation ~ Dec. 31)
-* [Repositories](https://vcs.gyeongmin.co): *Bitbucket*,  as my source code repository. (temporarily unavailable service due to relocation ~ Dec. 31)
-
 ### Private Projects
 * [Java doc generator](https://github.com/gkm2164/java-doc-creator): Java document generator (code reformatting)
 * [lengine](https://github.com/gkm2164/lisp-parser): Another lisp engine written in Scala
@@ -34,11 +28,29 @@ layout: default
 ## Work Experience
 
 ### [Amazon](https://www.amazon.ca), Canada
-#### Seller Experience Tool Technology
-
+#### Seller Central Experiences, SLICE team
 {:.float-right}
 _Dec. 2019 ~ Present_
-* Currently working.
+Our team manages vendor central which makes the vendors to register their products through web forms.
+Recently, our team migrated old HTML UI into React UI form.
+
+##### Involved projects:
+* **Zero-touch marketplace**, Feb. 2020 ~ Apr. 2020
+  * Remove hardcoded marketplace ID and migrate to API which manages all marketplace metadata
+  * Implemented class usage retrievers(using Javassist) to automatically identifying and documenting hardcoded spots
+
+* **External ID(GTIN, UPC like Barcodes) exemption**, Apr.2020 ~ Jul. 2020
+  * Allow the vendors to register products which does not have external ID.
+  * Successfully implemented and deployed to worldwide
+
+* **Prismo, Migrating HTML UI to React UI for item managements**, Nov.2020 ~ Dec.2020
+  * Involved in implementing UI tests
+  * Implementing Automatated dynamically filling data on React.js form fields, and submission tests.
+
+* **Optional External ID, Package Hierarchy**, Jan. 2020
+  * Implementing logic for backend side
+  * Implemented Generic topological sort which can handle different types of Nodes
+
 
 ### [Kakao](https://www.kakaocorp.com), Republic of Korea
 #### R&D Center
